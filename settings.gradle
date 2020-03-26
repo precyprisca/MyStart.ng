@@ -1,0 +1,2 @@
+rootProject.name='My Start.ng'
+include ':app'
